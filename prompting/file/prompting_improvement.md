@@ -1,4 +1,4 @@
-## Custom instructions 작성 추천 양식
+## Custom instructions (작성 추천 양식)
 1. What would you like ChatGPT to know about you to provide better responses?
 
 - 위치:
